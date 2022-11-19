@@ -4,6 +4,13 @@
 
   (paper "A4")
 
+  (title_block
+    (title "Noise-guy")
+    (date "2022-11-19")
+    (rev "20221119")
+    (company "Kinoshita Laboratory")
+  )
+
   (lib_symbols
     (symbol "Amplifier_Operational:LM321" (pin_names (offset 0.127)) (in_bom yes) (on_board yes)
       (property "Reference" "U" (id 0) (at 0 7.62 0)

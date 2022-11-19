@@ -5,6 +5,13 @@
   )
 
   (paper "A4")
+  (title_block
+    (title "Noise-Guy")
+    (date "2022-11-19")
+    (rev "20221119")
+    (company "Kinoshita Laboratory")
+  )
+
   (layers
     (0 "F.Cu" signal)
     (31 "B.Cu" signal)
