@@ -1,0 +1,4 @@
+(fp_lib_table
+  (lib (name "silk")(type "KiCad")(uri "${KIPRJMOD}/silk")(options "")(descr ""))
+  (lib (name "noise-guy")(type "KiCad")(uri "${KIPRJMOD}/lib/noise-guy.pretty")(options "")(descr ""))
+)
