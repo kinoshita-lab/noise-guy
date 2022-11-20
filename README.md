@@ -2,7 +2,7 @@
 
 [Document in Japanese](README_ja.md)
 
-Tiny noise generator made by ATTiny10
+Tiny white noise generator made by ATTiny10
 
 ![](img/noise_guy.png)
 ![](img/noise_guy2.png)
